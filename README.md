@@ -1,12 +1,13 @@
-==> E-learning Platform with Quizzes
+<div>==> E-learning Platform with Quizzes ==>EAD-ASSIGNMENT-2</div>
 
-===>Task: Develop an e-learning platform where users can watch courses, take quizzes
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>===>Task: Develop an e-learning platform where users can watch courses, take quizzes</div>
+<div>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
 PROCEDURE
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-LOGIN-SIGNUP PAGE USES FIREBASE FOR AUTHENTICATION 
+<div>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
+<div>LOGIN-SIGNUP PAGE USES FIREBASE FOR AUTHENTICATION </div>
 
-OPEN WITH LIVESERVER login-signup AND REGISTER IF YOU DOSENT HAVE ACCOUNT ELSE LOGIN TO THE PAGE
+<div>OPEN WITH LIVESERVER login-signup AND REGISTER IF YOU DOSENT HAVE ACCOUNT ELSE LOGIN TO THE PAGE</div>
 
-ONCE YOU LOGIN WITH CORRECT CREDENTIALS YOU WILL BE REDIRECTED TO START A QUIZ ,AFTER COMPLETING YOU CAN SEE YOUR SCORE IN THE LEADERBORD
+<div>ONCE YOU LOGIN WITH CORRECT CREDENTIALS YOU WILL BE REDIRECTED TO START A QUIZ ,AFTER COMPLETING YOU CAN SEE YOUR SCORE IN THE LEADERBORD</div>
 
+<div>===>REQUIRED NODE PACAKGES =>FIREBASE</div>
