@@ -1,6 +1,6 @@
-<div>==> E-learning Platform with Quizzes ==>EAD-ASSIGNMENT-2</div>
+<div><b>==> E-learning Platform with Quizzes ==>EAD-ASSIGNMENT-2</b></div>
 
-<div>Checkout Project-Screenshot folder - It contains all the Screenshots of our project</div>
+<div><b>Checkout Project-Screenshot folder - It contains all the Screenshots of our project<b></div>
 
 <div>===>Task: Develop an e-learning platform where users can watch courses, take quizzes</div>
 <div>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
