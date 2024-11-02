@@ -62,7 +62,7 @@ const matchingData = document.querySelector(".matching-data");
 
 // if quitQuiz button clicked
 quit_quiz.onclick = () => {
-  location.replace("./index.html"); //reload the current window
+  location.replace("../html/login_signup.html"); //reload the current window
 };
 
 // if leaderBoard button clicked
