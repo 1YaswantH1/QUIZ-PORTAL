@@ -103,7 +103,7 @@ submitButton.addEventListener("click", function () {
       sessionStorage.setItem("userId", auth.currentUser.uid);
       console.log("Success! Welcome back!");
       // window.alert("Success! Welcome back!");
-      location.replace("./start.html");
+      location.replace("http://127.0.0.1:5500/Quiz-Portal/html/dashbord.html");
       // ...
     })
     .catch((error) => {

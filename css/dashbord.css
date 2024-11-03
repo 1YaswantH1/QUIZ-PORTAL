@@ -1,0 +1,66 @@
+/* styles.css */
+
+.video-button {
+    background-color: #d32f2f;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    margin-top: 10px;
+  }
+  
+  .video-button:hover {
+    background-color: #b71c1c;
+  }
+  
+  .video-container {
+    margin-top: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .video-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .video-overlay iframe {
+    width: 90%;
+    height: 90%;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 1.5rem;
+    color: white;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .lecture-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 15px;
+  }
+
+  .lecture-item {
+    margin: 10px 0;
+    cursor: pointer;
+    color: #007bff;
+  }
+
+  .lecture-item:hover {
+    text-decoration: underline;
+  }
