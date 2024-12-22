@@ -5,12 +5,12 @@
 
 <div>===>Task: Develop an e-learning platform where users can watch courses, take quizzes</div><br>
 
-<div>--------------------------------------------------------------------------------------------------------------------------------</div><br>
+<hr>
 
 PROCEDURE
 <br>
 
-<div>---------------------------------------------------------------------------------------------------------------------------------/div><br>
+<hr>
 <br>
 
 <div>LOGIN-SIGNUP PAGE USES FIREBASE FOR AUTHENTICATION </div>
