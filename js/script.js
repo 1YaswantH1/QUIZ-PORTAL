@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBiKMAtstlv7R9DD5bDJ_ju2KXy0Oz91uY",
+  apiKey: "--replace here--",
   authDomain: "quiz-34ac3.firebaseapp.com",
   databaseURL: "https://quiz-34ac3-default-rtdb.firebaseio.com",
   projectId: "quiz-34ac3",
