@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDYdCaoqAID6Q95MqAI1rAUBwuMJfuvato",
+  apiKey: "AzayDYdCaqAID695MqAI1rUBwuMJfuvato",
   authDomain: "quiz-platform-5b833.firebaseapp.com",
   projectId: "quiz-platform-5b833",
   storageBucket: "quiz-platform-5b833.firebasestorage.app",
