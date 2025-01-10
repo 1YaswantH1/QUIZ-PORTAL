@@ -37,12 +37,12 @@ jobs:
         run: |
           mkdir deploy_root
           cp -r css js images deploy_root/
-          cp -r html/* deploy_root/
+          cp -r html deploy_root/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './deploy_root'
+          path: './deploy_root/html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
