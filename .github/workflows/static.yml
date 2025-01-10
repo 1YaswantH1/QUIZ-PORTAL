@@ -33,11 +33,16 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Copy files to root
+        run: |
+          mkdir deploy_root
+          cp -r css js images deploy_root/
+          cp -r html/* deploy_root/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './html'
+          path: './deploy_root'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
