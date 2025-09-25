@@ -1,4 +1,3 @@
-<div><b>==> E-learning Platform with Quizzes ==>EAD-ASSIGNMENT-2</b></div>
 <br>
 <div><b>Checkout Project-Screenshot folder - It contains all the Screenshots of our project<b></div>
 <br>
